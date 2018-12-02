@@ -84,7 +84,7 @@ body {
 }
 
 #header.landscape {
-  background-image: url("images/headers/landscapeheader.jpg");
+  background-image: url("images/headers/landscapeheader.JPG");
 }
 
 #header.longexposure {
@@ -145,7 +145,7 @@ body {
 }
 
 #links div.link a.landscape {
-  background-image: url("images/linkbackgrounds/landscape.jpg");
+  background-image: url("images/linkbackgrounds/landscape.JPG");
 }
 
 #links div.link a.longexposures {
