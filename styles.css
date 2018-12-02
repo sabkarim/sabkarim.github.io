@@ -238,6 +238,7 @@ body {
   margin: 0 auto;
   font-size: 30px;
 }
+
 #footer .buttons a {
   color: grey;
   text-decoration: none;
@@ -245,27 +246,21 @@ body {
   transition: color 0.5s ease-in-out;
 }
 
-#footer .buttons a .instagram{
-  color: grey;
-  text-decoration: none;
-  margin:0 25px;
-  transition: webkit-text-fill-color 0.5s ease-in-out;
-}
-
-#footer .buttons a:hover{
-  color: white;
-}
 
 #footer .buttons a:hover.twitter{
   color: #38A1F3;
 }
 
 #footer .buttons a:hover.instagram{
-  background: -webkit-radial-gradient(33% 100% circle, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+  color:#ffa500;
 }
 
 #footer .buttons a:hover.facebook{
   color: #3b5998;
+}
+
+#footer .buttons a:hover.mail{
+  color: #fff;
 }
 
 #footer .buttons a:hover.linkedin{
